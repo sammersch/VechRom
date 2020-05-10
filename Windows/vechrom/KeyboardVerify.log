@@ -1,0 +1,214 @@
+﻿    WARNING: ^ (U+005e) is already defined more than once on the keyboard (on VK_6, ShiftState 'Shift' and VK_3, ShiftState 'Ctl+Alt').
+    WARNING: The character ̇ (U+0307) exists in the entry for VK_8, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character а (U+0430) exists in the entry for VK_A, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character А (U+0410) exists in the entry for VK_A, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character б (U+0431) exists in the entry for VK_B, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Б (U+0411) exists in the entry for VK_B, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character с (U+0441) exists in the entry for VK_C, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character С (U+0421) exists in the entry for VK_C, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character д (U+0434) exists in the entry for VK_D, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Д (U+0414) exists in the entry for VK_D, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character е (U+0435) exists in the entry for VK_E, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Е (U+0415) exists in the entry for VK_E, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character є (U+0454) exists in the entry for VK_E, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Є (U+0404) exists in the entry for VK_E, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ф (U+0444) exists in the entry for VK_F, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ф (U+0424) exists in the entry for VK_F, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character г (U+0433) exists in the entry for VK_G, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Г (U+0413) exists in the entry for VK_G, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character х (U+0445) exists in the entry for VK_H, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Х (U+0425) exists in the entry for VK_H, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character и (U+0438) exists in the entry for VK_I, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character И (U+0418) exists in the entry for VK_I, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character й (U+0439) exists in the entry for VK_I, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Й (U+0419) exists in the entry for VK_I, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ж (U+0436) exists in the entry for VK_J, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ж (U+0416) exists in the entry for VK_J, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character џ (U+045f) exists in the entry for VK_J, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Џ (U+040f) exists in the entry for VK_J, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character к (U+043a) exists in the entry for VK_K, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character К (U+041a) exists in the entry for VK_K, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character л (U+043b) exists in the entry for VK_L, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Л (U+041b) exists in the entry for VK_L, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character м (U+043c) exists in the entry for VK_M, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character М (U+041c) exists in the entry for VK_M, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character н (U+043d) exists in the entry for VK_N, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Н (U+041d) exists in the entry for VK_N, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character о (U+043e) exists in the entry for VK_O, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character О (U+041e) exists in the entry for VK_O, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ѡ (U+0461) exists in the entry for VK_O, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ѡ (U+0460) exists in the entry for VK_O, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character п (U+043f) exists in the entry for VK_P, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character П (U+041f) exists in the entry for VK_P, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ѱ (U+0471) exists in the entry for VK_Q, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ѱ (U+0470) exists in the entry for VK_Q, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ѳ (U+0473) exists in the entry for VK_Q, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ѳ (U+0472) exists in the entry for VK_Q, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character р (U+0440) exists in the entry for VK_R, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Р (U+0420) exists in the entry for VK_R, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ѕ (U+0455) exists in the entry for VK_S, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ѕ (U+0405) exists in the entry for VK_S, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character з (U+0437) exists in the entry for VK_S, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character З (U+0417) exists in the entry for VK_S, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character т (U+0442) exists in the entry for VK_T, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Т (U+0422) exists in the entry for VK_T, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ѹ (U+0479) exists in the entry for VK_U, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ѹ (U+0478) exists in the entry for VK_U, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character в (U+0432) exists in the entry for VK_V, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character В (U+0412) exists in the entry for VK_V, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ѵ (U+0475) exists in the entry for VK_V, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ѵ (U+0474) exists in the entry for VK_V, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character і (U+0456) exists in the entry for VK_W, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character І (U+0406) exists in the entry for VK_W, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ї (U+0457) exists in the entry for VK_W, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ї (U+0407) exists in the entry for VK_W, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ѯ (U+046f) exists in the entry for VK_X, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ѯ (U+046e) exists in the entry for VK_X, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ꙋ (U+a64b) exists in the entry for VK_Y, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ꙋ (U+a64a) exists in the entry for VK_Y, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ӡ (U+04e1) exists in the entry for VK_Z, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ӡ (U+04e0) exists in the entry for VK_Z, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ш (U+0448) exists in the entry for VK_OEM_1, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ш (U+0428) exists in the entry for VK_OEM_1, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character щ (U+0449) exists in the entry for VK_OEM_1, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Щ (U+0429) exists in the entry for VK_OEM_1, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ͠ (U+0360) exists in the entry for VK_OEM_3, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ͡ (U+0361) exists in the entry for VK_OEM_3, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: ` (U+0060) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Ctl+Alt' and VK_7, ShiftState 'Ctl+Alt').
+    WARNING: ~ (U+007e) is already defined more than once on the keyboard (on VK_OEM_3, ShiftState 'Shift+Ctl+Alt' and VK_1, ShiftState 'Ctl+Alt').
+    WARNING: The character ъ (U+044a) exists in the entry for VK_OEM_4, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ѣ (U+0463) exists in the entry for VK_OEM_4, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ь (U+044c) exists in the entry for VK_OEM_4, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ы (U+044b) exists in the entry for VK_OEM_4, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ѧ (U+0467) exists in the entry for VK_OEM_5, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ꙗ (U+a657) exists in the entry for VK_OEM_5, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ю (U+044e) exists in the entry for VK_OEM_5, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ѥ (U+0465) exists in the entry for VK_OEM_5, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ꙟ (U+a65f) exists in the entry for VK_OEM_6, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ꙟ (U+a65e) exists in the entry for VK_OEM_6, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ѫ (U+046b) exists in the entry for VK_OEM_6, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ѫ (U+046a) exists in the entry for VK_OEM_6, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ц (U+0446) exists in the entry for VK_OEM_7, ShiftState 'Base' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ц (U+0426) exists in the entry for VK_OEM_7, ShiftState 'Shift' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character ч (U+0447) exists in the entry for VK_OEM_7, ShiftState 'Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The character Ч (U+0427) exists in the entry for VK_OEM_7, ShiftState 'Shift+Ctl+Alt' of the layout table and is not in the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: '\' defined on OEM_102 (Base) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: '|' defined on OEM_102 (Shift) but not defined elsewhere. This key may not be present on all keyboards.
+    WARNING: The Base Character 'u' (U+0075) in the Dead Key table for '˝' (U+02dd) does not exist on the keyboard.
+    WARNING: The Base Character 'o' (U+006f) in the Dead Key table for '˝' (U+02dd) does not exist on the keyboard.
+    WARNING: The Base Character 'U' (U+0055) in the Dead Key table for '˝' (U+02dd) does not exist on the keyboard.
+    WARNING: The Base Character 'O' (U+004f) in the Dead Key table for '˝' (U+02dd) does not exist on the keyboard.
+    WARNING: The Base Character 'n' (U+006e) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'c' (U+0063) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'z' (U+007a) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'd' (U+0064) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 's' (U+0073) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'l' (U+006c) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'e' (U+0065) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'r' (U+0072) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 't' (U+0074) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'N' (U+004e) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'C' (U+0043) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'Z' (U+005a) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'D' (U+0044) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'S' (U+0053) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'L' (U+004c) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'E' (U+0045) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'R' (U+0052) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'T' (U+0054) in the Dead Key table for 'ˇ' (U+02c7) does not exist on the keyboard.
+    WARNING: The Base Character 'a' (U+0061) in the Dead Key table for '^' (U+005e) does not exist on the keyboard.
+    WARNING: The Base Character 'e' (U+0065) in the Dead Key table for '^' (U+005e) does not exist on the keyboard.
+    WARNING: The dead key ^ (U+005e) when combined with e (U+0065) returns ê (U+00ea), but ê (U+00ea) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'u' (U+0075) in the Dead Key table for '^' (U+005e) does not exist on the keyboard.
+    WARNING: The dead key ^ (U+005e) when combined with u (U+0075) returns û (U+00fb), but û (U+00fb) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'i' (U+0069) in the Dead Key table for '^' (U+005e) does not exist on the keyboard.
+    WARNING: The Base Character 'o' (U+006f) in the Dead Key table for '^' (U+005e) does not exist on the keyboard.
+    WARNING: The Base Character 'A' (U+0041) in the Dead Key table for '^' (U+005e) does not exist on the keyboard.
+    WARNING: The Base Character 'E' (U+0045) in the Dead Key table for '^' (U+005e) does not exist on the keyboard.
+    WARNING: The dead key ^ (U+005e) when combined with E (U+0045) returns Ê (U+00ca), but Ê (U+00ca) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'U' (U+0055) in the Dead Key table for '^' (U+005e) does not exist on the keyboard.
+    WARNING: The dead key ^ (U+005e) when combined with U (U+0055) returns Û (U+00db), but Û (U+00db) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'I' (U+0049) in the Dead Key table for '^' (U+005e) does not exist on the keyboard.
+    WARNING: The Base Character 'O' (U+004f) in the Dead Key table for '^' (U+005e) does not exist on the keyboard.
+    WARNING: The Base Character 'a' (U+0061) in the Dead Key table for '˘' (U+02d8) does not exist on the keyboard.
+    WARNING: The Base Character 'A' (U+0041) in the Dead Key table for '˘' (U+02d8) does not exist on the keyboard.
+    WARNING: The Base Character 'u' (U+0075) in the Dead Key table for '°' (U+00b0) does not exist on the keyboard.
+    WARNING: The Base Character 'U' (U+0055) in the Dead Key table for '°' (U+00b0) does not exist on the keyboard.
+    WARNING: The Base Character 'a' (U+0061) in the Dead Key table for '˛' (U+02db) does not exist on the keyboard.
+    WARNING: The Base Character 'e' (U+0065) in the Dead Key table for '˛' (U+02db) does not exist on the keyboard.
+    WARNING: The Base Character 'A' (U+0041) in the Dead Key table for '˛' (U+02db) does not exist on the keyboard.
+    WARNING: The Base Character 'E' (U+0045) in the Dead Key table for '˛' (U+02db) does not exist on the keyboard.
+    WARNING: The Base Character 'a' (U+0061) in the Dead Key table for '`' (U+0060) does not exist on the keyboard.
+    WARNING: The dead key ` (U+0060) when combined with a (U+0061) returns à (U+00e0), but à (U+00e0) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'e' (U+0065) in the Dead Key table for '`' (U+0060) does not exist on the keyboard.
+    WARNING: The dead key ` (U+0060) when combined with e (U+0065) returns è (U+00e8), but è (U+00e8) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'u' (U+0075) in the Dead Key table for '`' (U+0060) does not exist on the keyboard.
+    WARNING: The dead key ` (U+0060) when combined with u (U+0075) returns ù (U+00f9), but ù (U+00f9) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'i' (U+0069) in the Dead Key table for '`' (U+0060) does not exist on the keyboard.
+    WARNING: The dead key ` (U+0060) when combined with i (U+0069) returns ì (U+00ec), but ì (U+00ec) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'o' (U+006f) in the Dead Key table for '`' (U+0060) does not exist on the keyboard.
+    WARNING: The dead key ` (U+0060) when combined with o (U+006f) returns ò (U+00f2), but ò (U+00f2) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'A' (U+0041) in the Dead Key table for '`' (U+0060) does not exist on the keyboard.
+    WARNING: The dead key ` (U+0060) when combined with A (U+0041) returns À (U+00c0), but À (U+00c0) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'E' (U+0045) in the Dead Key table for '`' (U+0060) does not exist on the keyboard.
+    WARNING: The dead key ` (U+0060) when combined with E (U+0045) returns È (U+00c8), but È (U+00c8) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'U' (U+0055) in the Dead Key table for '`' (U+0060) does not exist on the keyboard.
+    WARNING: The dead key ` (U+0060) when combined with U (U+0055) returns Ù (U+00d9), but Ù (U+00d9) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'I' (U+0049) in the Dead Key table for '`' (U+0060) does not exist on the keyboard.
+    WARNING: The dead key ` (U+0060) when combined with I (U+0049) returns Ì (U+00cc), but Ì (U+00cc) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'O' (U+004f) in the Dead Key table for '`' (U+0060) does not exist on the keyboard.
+    WARNING: The dead key ` (U+0060) when combined with O (U+004f) returns Ò (U+00d2), but Ò (U+00d2) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'z' (U+007a) in the Dead Key table for '˙' (U+02d9) does not exist on the keyboard.
+    WARNING: The Base Character 'Z' (U+005a) in the Dead Key table for '˙' (U+02d9) does not exist on the keyboard.
+    WARNING: The Base Character 'n' (U+006e) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'c' (U+0063) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'z' (U+007a) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'a' (U+0061) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 's' (U+0073) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'l' (U+006c) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'e' (U+0065) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'r' (U+0072) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'u' (U+0075) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'i' (U+0069) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'y' (U+0079) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'o' (U+006f) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'N' (U+004e) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'C' (U+0043) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'Z' (U+005a) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'A' (U+0041) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'S' (U+0053) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'L' (U+004c) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'E' (U+0045) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'R' (U+0052) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'U' (U+0055) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'I' (U+0049) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'Y' (U+0059) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'O' (U+004f) in the Dead Key table for '´' (U+00b4) does not exist on the keyboard.
+    WARNING: The Base Character 'c' (U+0063) in the Dead Key table for '¸' (U+00b8) does not exist on the keyboard.
+    WARNING: The Base Character 's' (U+0073) in the Dead Key table for '¸' (U+00b8) does not exist on the keyboard.
+    WARNING: The Base Character 't' (U+0074) in the Dead Key table for '¸' (U+00b8) does not exist on the keyboard.
+    WARNING: The Base Character 'C' (U+0043) in the Dead Key table for '¸' (U+00b8) does not exist on the keyboard.
+    WARNING: The Base Character 'S' (U+0053) in the Dead Key table for '¸' (U+00b8) does not exist on the keyboard.
+    WARNING: The Base Character 'T' (U+0054) in the Dead Key table for '¸' (U+00b8) does not exist on the keyboard.
+    WARNING: The Base Character 'a' (U+0061) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: The Base Character 'e' (U+0065) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: The Base Character 'u' (U+0075) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: The Base Character 'i' (U+0069) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: The dead key ¨ (U+00a8) when combined with i (U+0069) returns ï (U+00ef), but ï (U+00ef) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'y' (U+0079) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: The dead key ¨ (U+00a8) when combined with y (U+0079) returns ÿ (U+00ff), but ÿ (U+00ff) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'o' (U+006f) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: The Base Character 'A' (U+0041) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: The Base Character 'E' (U+0045) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: The Base Character 'U' (U+0055) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: The Base Character 'I' (U+0049) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: The dead key ¨ (U+00a8) when combined with I (U+0049) returns Ï (U+00cf), but Ï (U+00cf) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'Y' (U+0059) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: The dead key ¨ (U+00a8) when combined with Y (U+0059) returns Ÿ (U+0178), but Ÿ (U+0178) is not on the default system code page (1250) of the Romanian (Romania) language you specified. This may cause compatibility problems in non-Unicode applications.
+    WARNING: The Base Character 'O' (U+004f) in the Dead Key table for '¨' (U+00a8) does not exist on the keyboard.
+    WARNING: Caps Lock is set between '8' and '̇' (VK_8, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ꙋ' and 'Ꙋ' (VK_Y, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between '͠' and '͡' (VK_OEM_3, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ъ' and 'ѣ' (VK_OEM_4, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ѧ' and 'ꙗ' (VK_OEM_5, ShiftStates 'Base' and 'Shift').
+    WARNING: Caps Lock is set between 'ꙟ' and 'Ꙟ' (VK_OEM_6, ShiftStates 'Base' and 'Shift').
